@@ -1,6 +1,6 @@
 {
   "name": "librcon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A NodeJS library for send commands via RCON on different game servers",
   "main": "lib/index.js",
   "scripts": {
