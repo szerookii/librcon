@@ -22,7 +22,7 @@ librcon.send("list", "password", "0.0.0.0", 19132).then((res) => {
 
 // Async
 try{
-    let res = await librcon("list", "password", "0.0.0.0", 19132);
+    let res = await librcon.send("list", "password", "0.0.0.0", 19132);
     console.log("Got response : " + res);
 }catch(err){
     console.log("An error occured!\n " + err.message);
