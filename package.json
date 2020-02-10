@@ -1,0 +1,25 @@
+{
+  "name": "librcon",
+  "version": "1.0.0",
+  "description": "A NodeJS library for send commands via RCON on different game servers",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seyz123/librcon.git"
+  },
+  "keywords": [
+    "minecraft",
+    "rcon",
+    "game",
+    "mcpe"
+  ],
+  "author": "Seyz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Seyz123/librcon/issues"
+  },
+  "homepage": "https://github.com/Seyz123/librcon#readme"
+}
