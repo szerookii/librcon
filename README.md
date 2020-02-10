@@ -1,6 +1,6 @@
 # librcon
 
-libquery is an easy to use NodeJS library for send commands via RCON on different game servers
+librcon is an easy to use NodeJS library for send commands via RCON on different game servers
 
 ## Installation
 
