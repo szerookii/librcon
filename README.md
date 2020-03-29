@@ -1,5 +1,7 @@
 # librcon
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2e105a99c91d486b9971eea79bd005a0)](https://app.codacy.com/manual/Seyz123/librcon?utm_source=github.com&utm_medium=referral&utm_content=Seyz123/librcon&utm_campaign=Badge_Grade_Dashboard)
+
 librcon is an easy to use NodeJS library for send commands via RCON on different game servers
 
 ## Installation
